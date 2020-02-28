@@ -3,11 +3,12 @@
 >_Where flowers bloom,_
 >_so does hope._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Introduction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Katarina-L. A. is currently a twenty-one-year-old college student at _York College of Pennsylvania_ in her Junior year.
+Moreover, Katarina is **majoring in Psychology** and **minoring in both Criminal Justice and Criminalistics with a focus in Community.**
+Thus, _Katarina-L. A. is in the active pursuit of becoming a **forensic psychologist** to assist in criminal justice reform._
 
 ```markdown
 Syntax highlighted code block
