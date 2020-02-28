@@ -17,7 +17,7 @@ Katarina-L. A. is a proud disability advocate both online and outside of the Int
 
 ### Workings
 
-
+_This section is to be updated in the future._
 
 ### Contact Information
 
