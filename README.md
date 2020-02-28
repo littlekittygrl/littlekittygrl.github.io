@@ -8,7 +8,7 @@
 
 Katarina-L. A. is currently a twenty-one-year-old college student at _York College of Pennsylvania_ in her Junior year.
 Moreover, Katarina is **majoring in Psychology** and **minoring in both Criminal Justice and Criminalistics with a focus in Community.**
-Thus, _Katarina-L. A. is in the active pursuit of becoming a **forensic psychologist** to assist in criminal justice reform._
+Thus, _Katarina is in the active pursuit of becoming a **forensic psychologist** to assist in criminal justice reform._
 
 ```markdown
 Syntax highlighted code block
