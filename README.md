@@ -13,11 +13,7 @@ Thus, _Katarina is in the active pursuit of becoming a **forensic psychologist**
 
 ### About Katarina-L. A.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Katarina-L. A. is a proud disability advocate both online and outside of the Internet, specifically on the campus of York College of Pennsylvania in regard to vocalizing the student body's need for my accessibility in the classroom.
 
 ### Workings
 
