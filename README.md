@@ -1,6 +1,7 @@
 ## Welcome to Kit's Corner
 
-You can use the [editor on GitHub](https://github.com/littlekittygrl/littlekittygrl.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+>_Where flowers bloom,_
+>_so does hope._
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
